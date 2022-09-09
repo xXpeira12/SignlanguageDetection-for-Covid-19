@@ -1,0 +1,6 @@
+numpy==1.19.5
+tensorflow==2.5.0rc0
+opencv-python
+sklearn
+matplotlib
+mediapipe==0.8.5
